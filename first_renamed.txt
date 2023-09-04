@@ -1,12 +1,7 @@
 This is a demo project!!
-I want this to gointo commit 2!
-
-Changed by Aditya ::))
 
 Changed again!
 
-xyz
-
 Jai Mahakal!!
 
-This is added at bugfix branch!
+Hare Krishna!!
